@@ -10,3 +10,6 @@ venv/
 # IDEs
 .vscode/
 .idea/
+
+# json
+.netscope_inventory.json
